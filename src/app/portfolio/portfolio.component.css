@@ -1,9 +1,16 @@
-.example-card {
+.app-card {
   max-width: 400px;
   margin: 20px;
 }
+.base-background {
+  background-color: #e0e0e0;
+}
+.memes-header-image {
+  background-image: url('https://firebasestorage.googleapis.com/v0/b/admob-app-id-5882008275.appspot.com/o/gurutouch-labs-website%2Fmemes-icon.png?alt=media&token=bc44c133-3310-4a52-a34c-3d9d4878c579');
+  background-size: cover;
+}
 
-.example-header-image {
-  background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+.yippeee-header-image {
+  background-image: url('https://firebasestorage.googleapis.com/v0/b/admob-app-id-5882008275.appspot.com/o/gurutouch-labs-website%2Fyippeee-icon.png?alt=media&token=ed3d9d1e-f8e4-4dae-a51d-0449d004dd61');
   background-size: cover;
 }

@@ -1,3 +1,4 @@
+
 .app-card {
   max-width: 400px;
   margin: 20px;
@@ -13,4 +14,29 @@
 .yippeee-header-image {
   background-image: url('https://firebasestorage.googleapis.com/v0/b/admob-app-id-5882008275.appspot.com/o/gurutouch-labs-website%2Fyippeee-icon.png?alt=media&token=ed3d9d1e-f8e4-4dae-a51d-0449d004dd61');
   background-size: cover;
+}
+.yippeee-background-image {
+  margin: 0;
+  background-image: url('https://firebasestorage.googleapis.com/v0/b/admob-app-id-5882008275.appspot.com/o/gurutouch-labs-website%2Fkeyboard-blurred.jpg?alt=media&token=e7f6661e-8da5-4d5c-acb3-6915356ff577');
+  background-size: cover;
+}
+.playstore-download-image {
+width: 120px;
+height: 40px;
+  background-color: transparent;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center center;
+}
+.mat-card-avatar {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  border:2px solid #a00037;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.content-description {
+  font-family: 'Yeon Sung', cursive;
+    font-size: medium;
 }

@@ -40,3 +40,6 @@ height: 40px;
   font-family: 'Yeon Sung', cursive;
     font-size: medium;
 }
+.example-spacer {
+  flex: 1 1 auto;
+}
